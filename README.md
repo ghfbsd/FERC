@@ -2,7 +2,7 @@
 
 This is code transliterated by G. Helffrich 24 July 2022, from perl into
 Python based on the version at
-[ftp://hazards.cr.usgs.gov/feregion/fe_1995/feregion.pl]
+[ftp://hazards.cr.usgs.gov/feregion/fe_1995/feregion.pl](ftp://hazards.cr.usgs.gov/feregion/fe_1995/feregion.pl)
 ```
    Perl Version 0.2 - Bob Simpson January, 2003 <simpson<at>usgs.gov>
    With fix supplied by George Randall <ger<at>geophysics.lanl.gov> 2003-02-03
