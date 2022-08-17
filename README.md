@@ -1,4 +1,4 @@
-# FERC -- Translate a (lon,lat) point to a Flynn-Engdahl region code.
+# FERC -- Translate a (lon,lat) point to a Flinn-Engdahl region code.
 
 This is code transliterated by G. Helffrich 24 July 2022, from perl into
 Python based on the version at

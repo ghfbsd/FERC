@@ -1,4 +1,4 @@
-## FERC -- Translate (lon,lat) to Flynn-Engdahl region code.
+## FERC -- Translate (lon,lat) to Flinn-Engdahl region code.
 ##         Code pythonified and transliterated from perl version at
 ##             ftp://hazards.cr.usgs.gov/feregion/fe_1995/feregion.pl
 ##         by G. Helffrich 24 July 2022.
